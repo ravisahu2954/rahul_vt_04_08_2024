@@ -38,7 +38,6 @@ public class UrlServiceImpl implements UrlService {
 
 	private final UrlShortenerUtility urlShortenerUtility;
 	
-	//private final RedisTemplate<String, UrlMapping> redisTemplate;
 	
 	@Value("${baseUrl}")
 	private String baseUrl;
