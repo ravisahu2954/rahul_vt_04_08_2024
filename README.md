@@ -3,7 +3,7 @@ Url shortner service
 
 
 
-post Endpoint :  http://localhost:8081/api/v1/url/
+post Endpoint :  http://localhost:8081/api/v1/url/shorten
 {
     "originalUrl": "https://www.linkedin.com/in/ravi-sahu-bb1b07204/"
 }
